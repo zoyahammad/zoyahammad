@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Zoya Hammad 👋
+
+I am a high-school student trying to break into tech one step at a time. I am eager to learn new tools and techologies but I prefer to 'learn by doing'. 
+
+I have decent knowledge of HTML/CSS/Javascript and some React. I have also done some courses on Python & Data Anlaysis from University of Michigan and UPenn. 
+
+A few links:
+- 🚀 [Website](https://zoyahammad.github.io/)
+- 🖋️ [Medium](https://medium.com/@zoya.hammad99)
+- 📜 [LinkedIn](https://www.linkedin.com/in/zoya-hammad-5194812a6/)
 
 <!--
 **zoyahammad/zoyahammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
